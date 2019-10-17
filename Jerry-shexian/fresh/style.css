@@ -1,0 +1,47 @@
+body {
+  width: 750px;
+  margin: 0 auto;
+}
+.Boot_page {
+  height: 920px;
+  background-size: 100%;
+  background: url('img/10-引导页_01.png') no-repeat center;
+}
+.tg {
+  float: right;
+}
+.tg span {
+  padding-top: 16px;
+  text-align: center;
+  margin: 20px;
+  font-size: 25px;
+  display: inline-block;
+  width: 116px;
+  height: 47px;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+}
+p {
+  text-align: center;
+  color: black;
+  font-size: 45px;
+}
+.nav {
+  padding-top: 973px;
+}
+.nav p:nth-child(1) {
+  font-size: 38px;
+}
+.nav p:nth-child(2) {
+  color: #ff4b1b;
+}
+.nav p:nth-child(3) {
+  margin-top: 73px;
+}
+.nav p:nth-child(3) span {
+  padding: 30px 73px;
+  margin: 10px;
+  border-radius: 50px;
+  color: #fff;
+  background: -webkit-linear-gradient(30deg, #ff9500, #ff5002);
+}

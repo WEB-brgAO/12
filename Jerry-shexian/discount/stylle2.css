@@ -1,0 +1,95 @@
+body {
+  min-width: 350px;
+  max-width: 750px;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  font-size: 30px;
+  color: #fff;
+  position: absolute;
+  left: 10px;
+}
+header {
+  padding-top: 60px;
+  text-align: center;
+  position: relative;
+  background: -webkit-linear-gradient(30deg, #ff9500, #ff5002);
+  padding-bottom: 20px;
+}
+.ys {
+  height: 215px;
+  background-color: #fff;
+  padding: 22px;
+}
+.ys .ys-1 {
+  width: 100%;
+  height: 100%;
+  background: url(img/11-优惠券_03.png);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ys .ne-1 {
+  border: 3px solid rgba(245, 242, 245, 0.3);
+  height: 180px;
+  width: 573px;
+  display: inline-block;
+  border-radius: 30px;
+  display: flex;
+}
+.ys .ne-1 .fl {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ys .ne-1 .fl .m {
+  height: 125px;
+  line-height: 125px;
+}
+.ys .ne-1 .fl .m .zt1 {
+  font: 120px "impact";
+  color: #fff;
+}
+.ys .ne-1 .fl .m .zt2 {
+  font-size: 40px;
+  color: #fff;
+}
+.ys .ne-1 .fl p {
+  font-size: 32px;
+  margin: 0px;
+  padding: 15px 0;
+  color: #fff;
+}
+.ys .ne-1 .fr {
+  width: 111px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ys .ne-1 .fr div {
+  width: 20px;
+  color: #fff;
+  font-size: 32px;
+  position: relative;
+}
+.ys .ne-1 .fr div i {
+  width: 4px;
+  height: 143px;
+  color: #fff;
+  background-color: rgba(245, 242, 245, 0.3);
+  display: block;
+  position: absolute;
+  right: 70px;
+  top: -18px;
+}
+.ys-2 {
+  width: 100%;
+  height: 100%;
+  background: url(img/11-优惠券_09.png);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
